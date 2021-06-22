@@ -20,4 +20,4 @@ storage-interface = { path = "../../../storage/storage-interface" }
 scratchpad = { path = "../../../storage/scratchpad" }
 diem-state-view = { path = "../../../storage/state-view" }
 vm = { path = "../../vm" }
-bcs = "0.1.2"
+bcs = "0.1.3"

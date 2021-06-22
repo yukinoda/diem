@@ -18,7 +18,7 @@ structopt = "0.3.21"
 
 consensus = { path = "../../consensus", features=["fuzzing"] }
 consensus-types = { path = "../../consensus/consensus-types", features=["fuzzing"] }
-bcs = "0.1.2"
+bcs = "0.1.3"
 diem-config = { path = "../../config" }
 diem-crypto = { path = "../../crypto/crypto", features=["fuzzing"] }
 diem-crypto-derive = { path = "../../crypto/crypto-derive"}

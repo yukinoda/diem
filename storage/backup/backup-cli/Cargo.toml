@@ -34,7 +34,7 @@ executor = { path = "../../../execution/executor" }
 executor-test-helpers = { path = "../../../execution/executor-test-helpers", optional = true }
 executor-types = { path = "../../../execution/executor-types" }
 diem-jellyfish-merkle = { path = "../../jellyfish-merkle" }
-bcs = "0.1.2"
+bcs = "0.1.3"
 diem-config = { path = "../../../config" }
 diem-crypto = { path = "../../../crypto/crypto" }
 diem-infallible = { path = "../../../common/infallible" }
