@@ -44,7 +44,7 @@ ripemd160 = "0.9.1"
 criterion = "0.3.4"
 sha3 = "0.9.1"
 serde_json = "1.0.64"
-trybuild = "1.0.41"
+trybuild = "1.0.52"
 
 diem-workspace-hack = { path = "../../common/workspace-hack" }
 
