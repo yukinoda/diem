@@ -16,7 +16,7 @@ hex = "0.4.3"
 serde_json = "1.0.64"
 serde = { version = "1.0.124", features = ["derive"] }
 
-bcs = "0.1.2"
+bcs = "0.1.4"
 diem-types = { path = "../../types" }
 diem-crypto = { path = "../../crypto/crypto" }
 diem-workspace-hack = { path = "../../common/workspace-hack" }

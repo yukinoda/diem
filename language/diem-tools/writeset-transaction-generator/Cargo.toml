@@ -27,7 +27,7 @@ diem-types = { path = "../../../types" }
 compiled-stdlib = { path = "../../diem-framework/compiled" }
 diem-framework = { path = "../../diem-framework" }
 move-lang = { path = "../../move-lang" }
-bcs = "0.1.2"
+bcs = "0.1.4"
 diem-state-view = { path = "../../../storage/state-view" }
 diem-validator-interface = { path = "../diem-validator-interface" }
 diem-transaction-replay = { path = "../transaction-replay" }

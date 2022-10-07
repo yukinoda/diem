@@ -19,7 +19,7 @@ diem-types = { path = "../../types" }
 diem-workspace-hack = { path = "../../common/workspace-hack" }
 move-ir-types = { path = "../move-ir/types" }
 vm = { path = "../vm" }
-bcs = "0.1.2"
+bcs = "0.1.4"
 structopt = "0.3.21"
 serde_json = "1.0.64"
 

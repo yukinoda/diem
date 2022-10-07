@@ -10,7 +10,7 @@ publish = false
 edition = "2018"
 
 [dependencies]
-bcs = "0.1.2"
+bcs = "0.1.4"
 fail = "0.4.0"
 futures = "0.3.12"
 itertools = { version = "0.10.0", default-features = false }

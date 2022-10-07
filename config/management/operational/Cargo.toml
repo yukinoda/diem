@@ -18,7 +18,7 @@ structopt = "0.3.21"
 thiserror = "1.0.24"
 toml = { version = "0.5.8", default-features = false }
 
-bcs = "0.1.2"
+bcs = "0.1.4"
 diem-client = { path = "../../../sdk/client", features = ["blocking"], default-features = false }
 diem-config = { path = "../.."}
 diem-crypto = { path = "../../../crypto/crypto" }

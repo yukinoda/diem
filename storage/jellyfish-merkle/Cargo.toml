@@ -21,7 +21,7 @@ rand = { version = "0.8.3", optional = true }
 serde = { version = "1.0.124", features = ["derive"] }
 thiserror = "1.0.24"
 
-bcs = "0.1.2"
+bcs = "0.1.4"
 diem-crypto = { path = "../../crypto/crypto" }
 diem-crypto-derive = { path = "../../crypto/crypto-derive" }
 diem-infallible = { path = "../../common/infallible" }

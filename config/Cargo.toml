@@ -18,7 +18,7 @@ serde = { version = "1.0.124", features = ["rc"], default-features = false }
 serde_yaml = "0.8.17"
 thiserror = "1.0.24"
 
-bcs = "0.1.2"
+bcs = "0.1.4"
 diem-crypto = { path = "../crypto/crypto" }
 diem-crypto-derive = { path = "../crypto/crypto-derive" }
 diem-global-constants = { path = "./global-constants"}

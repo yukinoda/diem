@@ -13,7 +13,7 @@ diem-workspace-hack = { path = "../../../common/workspace-hack" }
 move-core-types = { path = "../../move-core/types" }
 move-ir-types = { path = "../../move-ir/types" }
 vm = { path = "../../vm" }
-bcs = "0.1.2"
+bcs = "0.1.4"
 codespan = "0.8.0"
 codespan-reporting = "0.8.0"
 serde = { version = "1.0.124", default-features = false }

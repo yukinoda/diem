@@ -27,7 +27,7 @@ cli = { path = "../cli", features = ["fuzzing"]  }
 compiled-stdlib = { path = "../../language/diem-framework/compiled" }
 debug-interface = { path = "../../common/debug-interface" }
 generate-key = { path = "../../config/generate-key" }
-bcs = "0.1.2"
+bcs = "0.1.4"
 diem-config = { path = "../../config" }
 diem-crypto = { path = "../../crypto/crypto" }
 diem-genesis-tool = {path = "../../config/management/genesis", features = ["testing"] }
